@@ -1,0 +1,24 @@
+{
+  "name": "djtools-spotify-to-youtube-converter",
+  "version": "0.1.0",
+  "description": "Script to grab a spotify playlist, and then match up youtube videos for use with youtube-dl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocmca/djtools-spotify-to-youtube-converter.git"
+  },
+  "author": "Owen McAlack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ocmca/djtools-spotify-to-youtube-converter/issues"
+  },
+  "homepage": "https://github.com/ocmca/djtools-spotify-to-youtube-converter#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-generator": "^4.16.1",
+    "express-handlebars": "^6.0.6"
+  }
+}
