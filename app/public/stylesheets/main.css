@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Inspiration:ital,wght@1,700&display=swap");
+html {
+  min-height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+  width: 100vw;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: linear-gradient(22deg, #09091e, #240733);
+  font: 14px "Inspiration", Helvetica, Arial, sans-serif;
+  min-height: 100%;
+  padding: 0;
+  margin: 0;
+  width: 100vw;
+}
+
+a {
+  color: #00B7FF;
+}
+
+main {
+  margin-top: 43vh;
+}
+main h1 {
+  font-size: 8rem;
+  text-align: center;
+  color: #9744c1;
+}
+
+header {
+  height: 50vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  text-align: right;
+  width: 100%;
+}
+
+/*# sourceMappingURL=main.css.map */

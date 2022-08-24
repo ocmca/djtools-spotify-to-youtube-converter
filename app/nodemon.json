@@ -1,0 +1,8 @@
+{
+  "verbose": true,
+  "ignore": ["**/*.lock"],
+  "watch": ["**.*js"],
+  "cwd": "D:/djtools-spotify-to-youtube-converter/app",
+  "delay": 5000,
+  "ext": "js,html,hbs"
+}
